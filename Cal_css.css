@@ -73,7 +73,7 @@ html {
   .equal-sign:hover {
     background-color: #4e9ed4;
   }
-  
+  /*comment */
   .calculator-keys {
     display: grid;
     grid-template-columns: repeat(4, 1fr);
