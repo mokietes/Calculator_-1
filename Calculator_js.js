@@ -1,2 +1,6 @@
-const calculator = {};
-let calculator = 1;
+const calculator = {
+  displayValue: "0",
+  firstOperand: null,
+  waitingForSecondOperand: false,
+  operator: null,
+};
