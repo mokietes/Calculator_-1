@@ -4,3 +4,5 @@ const calculator = {
   waitingForSecondOperand: false,
   operator: null,
 };
+function updateDisplay() {}
+updateDisplay();
